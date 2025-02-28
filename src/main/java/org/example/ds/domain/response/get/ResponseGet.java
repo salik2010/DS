@@ -1,4 +1,4 @@
-package org.example.ds.domain.response;
+package org.example.ds.domain.response.get;
 
 import lombok.Data;
 
